@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+}
+header{background-image:url(../images/Group_3.jpg);
+    padding: 300px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.container{
+    /* height: 100px; */
+    width: 1200px;
+    margin: auto;
+    /* background-color: rebeccapurple; */
+    overflow: hidden;
+}
+.col-1{
+
+/* background-color: aqua; */
+
+width: 20%;
+
+float: left;
+}
+.col-2{
+    
+/* background-color: aliceblue; */
+    
+width: 80%;
+    
+float: left;
+}
+img{
+    max-width: 100%
+}
+header h1{
+    font-size: 60px;
+    color: white;
+    margin: 0;
+    margin-top: 100px;
+}
+header p{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+body{
+    margin: 0;
+}
+header{
+    background-image:url(../images/Group_3.jpg);
+    padding: 100px 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.container{
+    /* height: 100px; */
+    width: 800px;
+    margin: auto;
+    /* background-color: rebeccapurple; */
+    overflow: hidden;
+}
+.col-1{
+
+/* background-color: aqua; */
+
+width: 20%;
+
+float: left;
+}
+.col-2{
+    
+/* background-color: aliceblue; */
+    
+width: 80%;
+    
+float: left;
+}
+img{
+    max-width: 100%;
+    width: 250px;
+    margin-left: auto;
+    display: block;
+}
+h1{}
+p{}
+a{
+    background-color: #f73758;
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 12px 55px;
+    display: inline-block;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.about-pnp{
+    padding: 100px 0;
+    text-align: center;
+}
+.about-pnp h1{
+    font-size: 50px;
+    margin: 0;
+}
+.about-pnp p{
+    font-size: 22px;
+    color: #929292;
+    padding-bottom: 50px;
+}
+.about-pnp strong{
+    color: black;
+}
+.feature-section{
+    padding: 73px 0;
+    background: aliceblue;
+}
+.col-3{
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 0 100px;
+    box-sizing: border-box;
+}
+.feature-section h2{
+    color: #f73758;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0;
+}
+.feature-section p{
+    color: #9c9c9c;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+.line{
+    border-right: 5px solid #f73758;
+}
